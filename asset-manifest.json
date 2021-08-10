@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e84d0444.chunk.css",
-    "main.js": "/static/js/main.e357e84e.chunk.js",
-    "main.js.map": "/static/js/main.e357e84e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aaab2444.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aaab2444.js.map",
-    "static/js/2.01e9bb0c.chunk.js": "/static/js/2.01e9bb0c.chunk.js",
-    "static/js/2.01e9bb0c.chunk.js.map": "/static/js/2.01e9bb0c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e84d0444.chunk.css.map": "/static/css/main.e84d0444.chunk.css.map",
-    "static/js/2.01e9bb0c.chunk.js.LICENSE.txt": "/static/js/2.01e9bb0c.chunk.js.LICENSE.txt",
-    "static/media/svg-1.db0b0994.svg": "/static/media/svg-1.db0b0994.svg",
-    "static/media/svg-2.svg": "/static/media/svg-2.198c8835.svg",
-    "static/media/svg-4.svg": "/static/media/svg-4.5f11287c.svg",
-    "static/media/svg-5.svg": "/static/media/svg-5.dfbca26e.svg",
-    "static/media/svg-6.205bf5c6.svg": "/static/media/svg-6.205bf5c6.svg",
-    "static/media/video.d48e2181.mp4": "/static/media/video.d48e2181.mp4"
+    "main.css": "/Money-Trees/static/css/main.e84d0444.chunk.css",
+    "main.js": "/Money-Trees/static/js/main.e357e84e.chunk.js",
+    "main.js.map": "/Money-Trees/static/js/main.e357e84e.chunk.js.map",
+    "runtime-main.js": "/Money-Trees/static/js/runtime-main.32f1d286.js",
+    "runtime-main.js.map": "/Money-Trees/static/js/runtime-main.32f1d286.js.map",
+    "static/js/2.487fa95a.chunk.js": "/Money-Trees/static/js/2.487fa95a.chunk.js",
+    "static/js/2.487fa95a.chunk.js.map": "/Money-Trees/static/js/2.487fa95a.chunk.js.map",
+    "index.html": "/Money-Trees/index.html",
+    "static/css/main.e84d0444.chunk.css.map": "/Money-Trees/static/css/main.e84d0444.chunk.css.map",
+    "static/js/2.487fa95a.chunk.js.LICENSE.txt": "/Money-Trees/static/js/2.487fa95a.chunk.js.LICENSE.txt",
+    "static/media/svg-1.db0b0994.svg": "/Money-Trees/static/media/svg-1.db0b0994.svg",
+    "static/media/svg-2.svg": "/Money-Trees/static/media/svg-2.198c8835.svg",
+    "static/media/svg-4.svg": "/Money-Trees/static/media/svg-4.5f11287c.svg",
+    "static/media/svg-5.svg": "/Money-Trees/static/media/svg-5.dfbca26e.svg",
+    "static/media/svg-6.205bf5c6.svg": "/Money-Trees/static/media/svg-6.205bf5c6.svg",
+    "static/media/video.d48e2181.mp4": "/Money-Trees/static/media/video.d48e2181.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.aaab2444.js",
-    "static/js/2.01e9bb0c.chunk.js",
+    "static/js/runtime-main.32f1d286.js",
+    "static/js/2.487fa95a.chunk.js",
     "static/css/main.e84d0444.chunk.css",
     "static/js/main.e357e84e.chunk.js"
   ]

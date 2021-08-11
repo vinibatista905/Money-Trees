@@ -28,13 +28,13 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-✔️React
+✔️ React
 
-✔️React Hooks
+✔️ React Hooks
 
-✔️React Scroll
+✔️ React Scroll
 
-✔️Styled-components
+✔️ Styled-components
 
 ##
 

@@ -6,7 +6,7 @@
 
 ## :camera: Demonstração
 
-Teste aqui: https://money-trees.netlify.app/
+Confira aqui: https://money-trees.netlify.app/
 
 ![Screenshot_1](https://user-images.githubusercontent.com/83718126/128925766-31f504d4-84c5-4ce7-942e-acd151b40ff9.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/83718126/128925788-8aad42f2-e70f-411b-bad1-e1e2aac44812.png)
